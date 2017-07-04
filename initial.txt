@@ -1,2 +1,3 @@
 line 1 added one hour ago
 adding another feature now for the bug fix
+3rd line
